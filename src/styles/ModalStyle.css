@@ -1,0 +1,55 @@
+ .container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.7);
+}
+.container .modal {
+  z-index: 1;
+  width: 60%;
+  height: 40%;
+  background: white;
+  padding: 50px 70px;
+  margin-bottom: 0;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  position: relative;
+  animation: animate 0.3s;
+}
+
+.modal button {
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  width: 60%;
+  height: 53px;
+  border: 0px;
+  background: primary;
+    /* background: #005453; */
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.modal h2 {
+  margin-bottom: 18px;
+}
+
+.modal p {
+  margin-bottom: 20px;
+}
+
+@keyframes animate {
+  from {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}

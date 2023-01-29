@@ -1,0 +1,158 @@
+.frame-8654 {
+  color: #1f1e22;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  border-radius: 15px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  font-family: Raleway, Arial;
+  font-size: .75rem;
+  font-weight: 600;
+  line-height: 21px;
+  display: flex;
+}
+
+.frame-8637 {
+  width: 100%;
+  background-color: #fff;
+  border: 1px solid #f2f2f2;
+  border-radius: 15px 15px 0 0;
+  flex-direction: row;
+  flex-basis: 21%;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 1px 20px 1px 21px;
+  font-size: 1.125rem;
+  font-weight: 700;
+  display: flex;
+}
+
+.patient-history {
+  margin-top: 2px;
+}
+
+.frame-8632 {
+  color: #005453;
+  height: 50%;
+  background-color: #d3ffed;
+  border-radius: 4px;
+  flex-direction: row;
+  flex-basis: 23%;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 1px;
+  padding-bottom: 1px;
+  padding-left: 8px;
+  font-family: Raleway, Arial;
+  font-size: .75rem;
+  font-weight: 500;
+  line-height: 14px;
+  display: flex;
+}
+
+.flex-container {
+  color: #5e5968;
+  width: 95%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-left: 9px;
+  line-height: 14px;
+  display: flex;
+}
+
+.group-18 {
+  width: 157px;
+  height: 157px;
+  object-fit: cover;
+}
+
+.frame-8652 {
+  height: 100%;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  border-radius: 11px;
+  flex-direction: column;
+  flex-basis: 41%;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 4px 1px 7px 20px;
+  display: flex;
+}
+
+.flex-container-1 {
+  width: 75%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1px;
+  font-weight: 500;
+  display: flex;
+}
+
+.ellipse-17 {
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+
+.admitted-patients {
+  margin-bottom: 1px;
+}
+
+.num-26 {
+  color: #1f1e22;
+  margin-bottom: 7px;
+  font-size: 1rem;
+  line-height: 19px;
+}
+
+.flex-container-2 {
+  width: 50%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  align-items: center;
+  margin-top: 1px;
+  font-weight: 500;
+  display: flex;
+}
+
+.ellipse-171 {
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+
+.num-12 {
+  color: #1f1e22;
+  margin-bottom: 10px;
+  font-size: 1rem;
+  line-height: 19px;
+}
+
+.flex-container-3 {
+  width: 70%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1px;
+  font-weight: 500;
+  display: flex;
+}
+
+.ellipse-172 {
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+
+.nraviuziwfkmz {
+  color: #1f1e22;
+  margin-bottom: 5px;
+  font-size: 1rem;
+  line-height: 19px;
+}

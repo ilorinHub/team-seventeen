@@ -1,0 +1,14 @@
+.component-468 {
+  color: #db3535;
+  background-color: #f9e1e1;
+  border-radius: 2px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1px;
+  font-family: Raleway, Arial;
+  font-size: .75rem;
+  font-weight: 600;
+  line-height: 14px;
+  display: flex;
+}

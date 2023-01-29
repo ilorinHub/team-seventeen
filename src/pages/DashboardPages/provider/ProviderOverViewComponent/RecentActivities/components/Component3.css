@@ -1,0 +1,14 @@
+.component-3 {
+  color: #c6c6c6;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  border-radius: 10px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  font-family: Raleway, Arial;
+  font-size: 1.063rem;
+  font-weight: 400;
+  line-height: 20px;
+  display: flex;
+}
