@@ -7,7 +7,7 @@ const Header = (props) => {
   return (
     <nav className="w-full flex py-5 justify-between navbar items-center ">
       <Link to="/">
-        <img src={logo} alt="carefara"  />
+        <img src={logo} alt="carefara " className="w-[120px] h-[33px]"   />
       </Link>
         <Button properties={props}/>
     </nav>
